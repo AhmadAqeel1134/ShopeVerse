@@ -1,0 +1,176 @@
+C:\Users\momin\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\momin\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\momin\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.CustomerReg.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.SellerReg.resources
+C:\Users\momin\source\repos\Project\Project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\EnvDTE.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\stdole.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\momin\source\repos\Project\Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.SellerInterface.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\momin\source\repos\Project\Project\bin\Debug\dje\Project.resources.dll
+C:\Users\momin\source\repos\Project\Project\obj\Debug\dje\Project.resources.dll
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.SellerReports.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.AdSellerCustomerMgmt.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.CustInterface.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.SellerInvMgmt.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.LogNotification.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.LogOrderTracking.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.AdProductCategoryMgmt.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.CustProductSearch.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.CustProfileManagement.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.CustReview.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.LogShipmentTracking.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.CustShoppingCart.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.SellerInvMgmt.dje.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.AdOrderMgmt.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.SellerOrderFulfillment.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.AdReviewMod.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.AdInterface.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.AdReports.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.LogInterface.resources
+C:\Users\momin\source\repos\Project\Project\obj\Debug\Project.MainMenu.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\dje\Project.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\EnvDTE.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\stdole.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.AdInterface.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.AdOrderMgmt.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.AdReports.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.AdReviewMod.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.AdSellerCustomerMgmt.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.CustInterface.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.CustomerReg.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.LogInterface.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.MainMenu.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.SellerInvMgmt.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.LogNotification.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.SellerOrderFulfillment.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.LogOrderTracking.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.AdProductCategoryMgmt.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.CustProductSearch.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.CustProfileManagement.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.CustReview.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.SellerReports.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.SellerInterface.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.SellerReg.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.LogShipmentTracking.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.CustShoppingCart.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.SellerInvMgmt.dje.resources
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\dje\Project.resources.dll
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\Ahmad Aqeel\Desktop\Project\Project\obj\Debug\Project.pdb
